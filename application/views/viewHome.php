@@ -24,7 +24,7 @@
         var aux = document.createElement("input");
 
         // Assign it the value of the specified element
-        aux.setAttribute("value", document.getElementById(elementId).innerHTML);
+        aux.setAttribute("value", document.getElementById(elementId).innerText);
 
         // Append it to the body
         document.body.appendChild(aux);
@@ -122,7 +122,7 @@
                 <div class="col-lg-4">
                     <h4 class="text-uppercase mb-4">About Longtener</h4>
                     <p class="lead mb-0">
-                        Longtener is the strangest thing that came to my head when i was trying to improve my coding skills. TBH, it's my fist CI Application.
+                        Longtener is the strangest thing that came to my head when i was trying to improve my coding skills. TBH, it's my first CI Application.
                     </p>
                 </div>
             </div>
