@@ -1,13 +1,9 @@
 
 .. raw:: html
-<h1>LongtenerLink for fun</h1>
+
    <div style="background-color: #f2f2f2; padding: 10px;">
-       <p>This is a custom HTML block in reStructuredText.</p>
+   <h1> Longtener Link for fun</h1>
+       <p>My first CodeIgniter app to improve my coding skills.</p>
+       <h3><p><a href="https://spkibul.000webhostapp.com/">Demo</a></p></h3>
    </div>
-
-My first CodeIgniter app to improve my coding skills.
-
-*******************
-Demo : https://spkibul.000webhostapp.com/
-*******************
 
